@@ -1,6 +1,6 @@
 {
-  "name": "موقعي",
-  "short_name": "موقعي",
+  "name": "A study notebook for taking notes",
+  "short_name": "Pharmacy Study Notes",
   "start_url": "/my-site/",
   "display": "standalone",
   "background_color": "#ffffff",
